@@ -69,3 +69,6 @@ Setelah menyelesaikan modul ini, peserta didik diharapkan mampu:
 ## Lisensi
 
 Modul ini disusun untuk kepentingan pembelajaran di jenjang SMK. Dapat digunakan, dimodifikasi, dan dikembangkan lebih lanjut sesuai kebutuhan pengajaran.
+
+Latihan Soal Excel
+https://wayground.com/join?gc=36032098
